@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GSC_Kursach/1.0.0": {
+        "runtime": {
+          "GSC_Kursach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GSC_Kursach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

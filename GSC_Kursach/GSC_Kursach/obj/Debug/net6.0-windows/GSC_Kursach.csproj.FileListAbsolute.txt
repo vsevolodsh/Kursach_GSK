@@ -1,0 +1,17 @@
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.csproj.AssemblyReference.cache
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.csproj.GenerateResource.cache
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.GeneratedMSBuildEditorConfig.editorconfig
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.AssemblyInfoInputs.cache
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.AssemblyInfo.cs
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.csproj.CoreCompileInputs.cache
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\bin\Debug\net6.0-windows\GSC_Kursach.exe
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\bin\Debug\net6.0-windows\GSC_Kursach.deps.json
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\bin\Debug\net6.0-windows\GSC_Kursach.runtimeconfig.json
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\bin\Debug\net6.0-windows\GSC_Kursach.dll
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\bin\Debug\net6.0-windows\GSC_Kursach.pdb
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.Form1.resources
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.dll
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\refint\GSC_Kursach.dll
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.pdb
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\GSC_Kursach.genruntimeconfig.cache
+D:\VStudio_saves\GSC\GSC_Kursach\GSC_Kursach\obj\Debug\net6.0-windows\ref\GSC_Kursach.dll
